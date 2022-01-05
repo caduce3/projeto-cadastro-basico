@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+    background: radial-gradient(circle, #BCCEE2, #96B3D1,#719BC3);
+    margin: auto;
+    
+}
+
+main {
+    background-color: #96B3D1;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.705);
+    font-family: 'Oswald', sans-serif;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#nome {
+    margin-left: 5.6%;
+}
+
+#sobre {
+    margin-left: 0.6%;
+}
+
+#email {
+    margin-left: 5.7%;
+}
+
+#telefone {
+    margin-left: 3%;
+}
+
+#idade {
+    margin-left: 8.4%;
+}
+
+#bt {
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+
